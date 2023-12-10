@@ -15,5 +15,7 @@ To Run this script we need the following modules
       Use the cd command to change the directory to your Python project if you are not already in the correct directory.
     
 4.  Install the Python module:
-      
+      Run the following command to install a Python module using pip:
+      i  ------>   pip install opencv-python
+      ii ------>   pip install mediapipe
 
